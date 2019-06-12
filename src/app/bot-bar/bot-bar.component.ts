@@ -12,4 +12,16 @@ export class BotBarComponent implements OnInit {
   ngOnInit() {
   }
 
+  openMail() {
+    window.alert("Email me at ...");
+  }
+
+  openGH() {
+    window.alert("Email me at ..s.");
+  }
+
+  openLI() {
+    window.alert("hahah");
+
+  }
 }
