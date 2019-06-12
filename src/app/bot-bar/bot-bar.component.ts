@@ -13,15 +13,7 @@ export class BotBarComponent implements OnInit {
   }
 
   openMail() {
-    window.alert("Email me at ...");
+    window.alert("You can email me at reidyesson@gmail.com!");
   }
 
-  openGH() {
-    window.alert("Email me at ..s.");
-  }
-
-  openLI() {
-    window.alert("hahah");
-
-  }
 }
