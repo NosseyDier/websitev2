@@ -1,11 +1,12 @@
 export const sections = [
   {
     name: 'About me',
-    description: 'A large phone with one of the best screens'
+    description: 'Hi! My name is Reid from Boston, MA. I am a college sophomore that is passionate about software development and transportation.'
+
   },
   {
     name: 'Education',
-    description: 'A great phone with one of the best cameras'
+    description: 'I currently attend Carnegie Mellon University in Pittsburgh, PA, and I am studying Electrical and Computer Engineering.'
   },
   {
     name: 'Experience',

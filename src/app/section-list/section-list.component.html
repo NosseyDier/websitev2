@@ -1,17 +1,14 @@
 
 <div *ngFor="let section of sections">
- 
-
-  
 
   <h3>
-    <a [title]="section.name + ' details'">
+    <a >
       {{ section.name }}
     </a>
   </h3>
  
   <p *ngIf="section.description">
-    Description: {{ section.description }}
+    {{ section.description }}
   </p>
  
 </div>
