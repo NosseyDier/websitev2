@@ -1,14 +1,14 @@
 import { Component } from '@angular/core';
 
-import { products } from '../products';
+import { sections } from '../sections';
 
 @Component({
-  selector: 'app-product-list',
-  templateUrl: './product-list.component.html',
-  styleUrls: ['./product-list.component.css']
+  selector: 'app-section-list',
+  templateUrl: './section-list.component.html',
+  styleUrls: ['./section-list.component.css']
 })
-export class ProductListComponent {
-  products = products;
+export class SectionListComponent {
+  sections = sections;
 
   share() {
     window.alert('The product has been shared!');
