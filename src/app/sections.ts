@@ -10,7 +10,7 @@ export const sections = [
   },
   {
     name: 'Experience',
-    description: 'I am currently an Engineering Intern at Union Pacific. During the semester, I worked at the Robotics Insitute on a computer imaging project for traffic intersections. I previously worked on analyzing the communication between connected vehicles at the USDOT Volpe Center, and worked with the Senseable City Lab to help deploy sensors on garbage trucks in Cambridge.'
+    description: 'I am currently an Engineering Intern at Union Pacific. During the semester, I worked at the Robotics Insitute on a computer imaging project for traffic intersections. I previously worked on analyzing the communication between connected vehicles at the USDOT Volpe Center for a summer, and worked with the MIT Senseable City Lab to help deploy sensors on garbage trucks in Cambridge.'
   },
   {
     name: 'Technical Skills',
