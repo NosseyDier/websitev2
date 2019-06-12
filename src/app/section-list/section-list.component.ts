@@ -9,7 +9,7 @@ import { sections } from '../sections';
 })
 export class SectionListComponent {
   sections = sections;
-
+  
   share() {
     window.alert('The product has been shared!');
   }

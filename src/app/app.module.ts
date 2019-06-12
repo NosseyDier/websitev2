@@ -22,7 +22,7 @@ import { BotBarComponent } from './bot-bar/bot-bar.component';
     SectionListComponent,
     BotBarComponent
   ],
-  bootstrap: [ AppComponent ]
+  bootstrap: [AppComponent]
 })
 export class AppModule { }
 
